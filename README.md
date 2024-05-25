@@ -12,13 +12,13 @@ It rates by star(*), and each of the bellow factors if are True, it adds an star
 3 examples:
 
 enter a password:
->>password
+-password
 **
 
 enter a password:
->>pass
+-pass
 *
 
 enter a password:
->>P@s$w0rd
+-P@s$w0rd
 *****
